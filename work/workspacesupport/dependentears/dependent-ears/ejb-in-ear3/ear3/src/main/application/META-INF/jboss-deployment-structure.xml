@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<jboss-deployment-structure xmlns="urn:jboss:deployment-structure:1.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<deployment>
+		<dependencies>
+			<module name="deployment.jboss-ejb-in-ear2.ear" export="true" />
+		</dependencies>
+	</deployment>
+</jboss-deployment-structure>
+
+		
+	
+		
